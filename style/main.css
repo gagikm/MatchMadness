@@ -8,7 +8,7 @@ html, body {
   background-attachment: fixed;
   color: white  ;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
-  font-size: 12px; }
+  font-size: 16px; }
 
 body {
   margin: 80px 0; }
@@ -19,7 +19,7 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 80px;
+  font-size: 60px;
   font-weight: bold;
   margin: 0;
   display: block;
