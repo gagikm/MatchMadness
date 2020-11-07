@@ -11,12 +11,17 @@ html, body {
   font-size: 16px; }
 
 body {
-  margin: 80px 0; }
+  margin: 0; }
 
 .heading:after {
   content: "";
   display: block;
   clear: both; }
+
+.ad-container {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
 
 h1.title {
   font-size: 50px;
